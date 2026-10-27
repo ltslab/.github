@@ -5,7 +5,7 @@ This policy applies to every repository in the `ltslab` organization.
 ## Reporting a vulnerability
 
 Report privately through GitHub:
-<https://github.com/ltslab/spring-lts/security/advisories/new>.
+<https://github.com/ltslab/lts-for-spring/security/advisories/new>.
 
 Do not open a public issue, pull request, or discussion for a suspected vulnerability.
 
@@ -16,13 +16,13 @@ for undisclosed upstream vulnerabilities.
 
 ## What is in scope
 
-- The patch series, build, and release tooling in `ltslab/spring-lts`.
+- The patch series, build, and release tooling in `ltslab/lts-for-spring`.
 - Artifacts published under `io.github.ltslab`, once they exist.
 
 ## Supported versions
 
 Nothing has been published yet. Once the first release train exists, the supported versions
-will be listed in `ltslab/spring-lts`.
+will be listed in `ltslab/lts-for-spring`.
 
 ## Response
 

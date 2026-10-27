@@ -2,7 +2,7 @@
 
 Community long-term support builds for the Spring Boot 3.5.x dependency stack.
 
-Everything lives in one repository: **[ltslab/spring-lts](https://github.com/ltslab/spring-lts)**.
+Everything lives in one repository: **[LTS for Spring](https://github.com/ltslab/lts-for-spring)**.
 It holds the plan, the security patch series, and, as they are added, the CVE data, the BOM, and
 the release automation.
 
